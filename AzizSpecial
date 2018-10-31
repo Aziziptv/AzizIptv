@@ -5139,9 +5139,6 @@ http://m-iptv.net:6204/live/0pPllOOkki/0aPOIU8777/9034.ts
 http://m-iptv.net:6204/live/0pPllOOkki/0aPOIU8777/9033.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ro- Taraf TV" tvg-logo="" group-title="Romania",Ro- Taraf TV
 http://m-iptv.net:6204/live/0pPllOOkki/0aPOIU8777/9032.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Is- Yes ZOOM" tvg-logo="" group-title="Israel",Is- Yes ZOOM
-http://m-iptv.net:6204/live/0pPllOOkki/0aPOIU8777/9001.ts
 #EXTINF:-1 tvg-id="" tvg-name="Us- A&E  US" tvg-logo="" group-title="USA",Us- A&E  US
 http://m-iptv.net:6204/live/0pPllOOkki/0aPOIU8777/10441.ts
 #EXTINF:-1 tvg-id="" tvg-name="Us- ABC US" tvg-logo="" group-title="USA",Us- ABC US
