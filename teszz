@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,|AR|_MBC_2
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/65.ts
+#EXTINF:-1 tvg-id="" tvg-name="My- MBC4 HD" tvg-logo="http://www.vod-logo.net/photos/15a5adff327a50e42ca2b521fe29f54c.png" group-title="Arabic",My- MBC4 HD
+http://m-iptv.net:6204/live/0pPllOOkki/0aPOIU8777/27.ts
